@@ -1,0 +1,6 @@
+git init : comando para inicializar git en nuestro proyecto
+
+1) git --version para ver la version de git
+2) configuracion de git
+
+it congfig --global user.name "Franco Alonso"
